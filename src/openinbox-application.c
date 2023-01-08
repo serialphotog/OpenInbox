@@ -2,7 +2,7 @@
 #include "config.h"
 
 #include "openinbox-application.h"
-#include "openinbox-window.h"
+#include "gtk/openinbox-window.h"
 
 struct _OpenInboxApplication
 {

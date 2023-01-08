@@ -1,7 +1,7 @@
 openinbox_sources = [
   'main.c',
   'openinbox-application.c',
-  'openinbox-window.c',
+  'gtk/openinbox-window.c',
 ]
 
 openinbox_deps = [

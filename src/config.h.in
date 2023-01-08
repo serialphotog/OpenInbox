@@ -5,7 +5,7 @@
 #define APP_COPYRIGHT "Copyright © 2023 Adam Thompson. All rights reserved."
 
 // Resources
-#define MAIN_WINDOW_UI "/com/hackeradam/openinbox/openinbox-window.ui"
+#define MAIN_WINDOW_UI "/com/hackeradam/openinbox/gtk/openinbox-window.ui"
 
 #define PACKAGE_VERSION APP_VERSION
 #define GETTEXT_PACKAGE "@gettext_package@"
