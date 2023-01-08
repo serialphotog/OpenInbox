@@ -1,0 +1,6 @@
+data/com.hackeradam.openinbox.desktop.in
+data/com.hackeradam.openinbox.appdata.xml.in
+data/com.hackeradam.openinbox.gschema.xml
+src/main.c
+src/openinbox-window.c
+src/openinbox-window.ui

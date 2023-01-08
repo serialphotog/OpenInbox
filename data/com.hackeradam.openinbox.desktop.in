@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=openinbox
+Exec=openinbox
+Icon=com.hackeradam.openinbox
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

@@ -1,0 +1,12 @@
+#define APP_NAME "Open Inbox"
+#define APP_VERSION "@version@"
+#define APP_ID "com.hackeradam.openinbox"
+#define APP_AUTHOR "Adam Thompson"
+#define APP_COPYRIGHT "Copyright © 2023 Adam Thompson. All rights reserved."
+
+// Resources
+#define MAIN_WINDOW_UI "/com/hackeradam/openinbox/openinbox-window.ui"
+
+#define PACKAGE_VERSION APP_VERSION
+#define GETTEXT_PACKAGE "@gettext_package@"
+#define LOCALEDIR "@localdir@"
