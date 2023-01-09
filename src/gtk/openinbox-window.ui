@@ -16,11 +16,15 @@
       </object>
     </child>
     <child>
-      <object class="GtkLabel" id="label">
-        <property name="label">Hello, World!</property>
-        <style>
-          <class name="title-1"/>
-        </style>
+      <object class="GtkPaned" id="main_pane">
+        <property name="visible">True</property>
+        <property name="can-focus">True</property>
+        <child>
+          <placeholder/>
+        </child>
+        <child>
+          <placeholder/>
+        </child>
       </object>
     </child>
   </template>
